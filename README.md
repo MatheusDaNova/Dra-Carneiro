@@ -104,6 +104,7 @@
 - **Cabeçalho**: Utilize o Verde Folha para o fundo e o Branco para o texto.
 - **Botões de CTA**: O Laranja Suave para chamar a atenção, com texto em Branco.
 - **Seções**: Azul Claro para fundos de seções específicas, com texto em cinza ou verde escuro.
+
 - **Textos**: Use Branco sobre Verde e Cinza Claro para melhor legibilidade.
 
 ### Exemplo Visual
@@ -114,5 +115,4 @@
 
 ---
 ## Design da página : 
-![Frame 1](https://github.com/user-attachments/assets/40bacf11-3474-4c55-adf7-8d4390884369)
-![Dr  Carneiro](https://github.com/user-attachments/assets/38466e3c-7e94-4654-a507-974f83c8e2dc)
+![Nutrição equilibrada](https://github.com/user-attachments/assets/9a24474a-39e8-4943-8739-de96a1ba3fa4)
